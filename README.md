@@ -12,6 +12,8 @@ Understand Key Drivers: Analyze demographic, behavioral, and healthcare utilizat
 Propose Interventions: Recommend targeted strategies to improve preventive care participation among disengaged members.
 
 Methodology
+![image](https://github.com/user-attachments/assets/fc6a2dae-7045-4d9e-9a55-3629ee82d9ea)
+
 1. Data Preparation
 Data Aggregation: Multiple datasets were aggregated to create a comprehensive member-level view, including demographics, healthcare utilization, and quality metrics.
 
